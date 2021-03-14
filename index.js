@@ -1,4 +1,4 @@
-function computeLoan(){
+function totalProduction(){
     var shedA = document.getElementById('shedA') .value;
     var shedB= document.getElementById('shedB') .value;
     var shedC = document.getElementById('shedC').value;
