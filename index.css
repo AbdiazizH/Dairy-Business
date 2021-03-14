@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+input{
+    width: 400px;
+    height:40px ;
+
+}
+p{
+    font-size: large;
+    font-weight: 100;
+}
