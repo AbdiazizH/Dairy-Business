@@ -16,3 +16,5 @@ The website is compatible with devices of all sizes and all OS's, and consistent
 ### Development
 Want to contribute? Awesome!
 To fix a bug or enhance an existing module, follow these steps:
+- Fork the repo
+- Create a new branch (`git checkout -b improve-feature`)
