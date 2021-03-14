@@ -9,7 +9,8 @@
 
 ## Demo
 
-Here is a working live demo : 
+Here is a working live demo : https://abdiazizh.github.io/Dairy-Business/
+
 
 ## Mobile support
 The website is compatible with devices of all sizes and all OS's, and consistent improvements are being made.
