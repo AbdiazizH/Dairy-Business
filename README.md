@@ -29,3 +29,5 @@ To fix a bug or enhance an existing module, follow these steps:
 - javascript.
 ## Author
 Abdiaziz hussein
+## License
+[MIT]
